@@ -22,8 +22,9 @@ title: Portfolio
 email: alvarosantosrom9@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Computer Science Student at University of Cadiz.
+domain: EviLAsRz.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https:://EviLAsRz.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EviLAsRz
 github_username:  EviLAsRz
 
