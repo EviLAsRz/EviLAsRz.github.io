@@ -4,7 +4,7 @@ title: Skills
 permalink: /skills
 ---
 
-**Skills** :computer: <br>
+**Skills** <br>
 
 Currently, i have learned and developed skills in:
 
