@@ -1,5 +1,5 @@
 layout: page
-title: "Skills"
+title: Skills
 permalink: /skills
 
 Hola
