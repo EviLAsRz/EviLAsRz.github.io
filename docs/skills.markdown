@@ -4,8 +4,6 @@ title: Skills
 permalink: /skills
 ---
 
-**Skills** <br>
-
 Currently, i have learned and developed skills in:
 
 **Development**
