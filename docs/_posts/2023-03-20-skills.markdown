@@ -5,4 +5,4 @@ date: 2023-03-20 13:16:00 -0000
 categories: skills
 ---
 
-You can find the information [ here. ](/skills/)
+You can find the information [ here. ](/skills)
